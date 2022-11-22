@@ -1,10 +1,15 @@
 
 
 <h1>GitHub Stats 📊</h1>
- 
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=HyperekDerg&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HyperekDerg&theme=dracula)](https://git.io/streak-stats)  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=HyperekDerg&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperekDerg&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
+
+</td></tr></table>  
 <hr>
 
 <br/>  
