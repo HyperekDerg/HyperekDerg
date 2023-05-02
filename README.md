@@ -1,6 +1,6 @@
 ## Greetings, I'm a fire and storm-breathing code dragon! 🔥⛈️
 
-My name is Akub or as some people like to say Hyper, and I am an IT enthusiast who also happens to be a dragon. I have the power to breathe both fire and storms, and I use those powers to create amazing things with code.
+My name is Jakub or as some people like to say Hyper, and I am an IT enthusiast who also happens to be a dragon. I have the power to breathe both fire and storms, and I use those powers to create amazing things with code.
 ## 🔥⛈️ Elements of Choice
 
 My elements of choice are fire and storms. I can unleash a scorching blaze or a powerful thunderstorm at will, and I love to use those powers to solve complex coding challenges.
